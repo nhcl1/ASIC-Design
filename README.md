@@ -1,1 +1,2 @@
 # ASIC-Design
+There are other verilog files, specifically other modules such as data memory, parallel to serial data converter,etc which are part of this project that are not available in this repo. The reasoning is this course project will be extremely easy if all those modules were uploaded here. For those who are interested in this project, I hope the report and the two .v files will shed some light into how this project architecture was implemented.
